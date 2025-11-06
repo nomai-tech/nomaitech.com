@@ -1,15 +1,15 @@
 .btn {
-  @apply inline-block rounded border border-transparent px-5 py-2 font-semibold capitalize transition;
+  @apply inline-block rounded-lg border border-transparent px-5 py-2 font-semibold capitalize transition-all duration-300 shadow-lg hover:shadow-xl hover:scale-105;
 }
 
 .btn-sm {
-  @apply rounded-sm px-4 py-1.5 text-sm;
+  @apply rounded-md px-4 py-1.5 text-sm;
 }
 
 .btn-primary {
-  @apply border-primary bg-primary dark:border-darkmode-primary dark:text-text-dark text-white dark:bg-darkmode-primary;
+  @apply border-primary bg-gradient-to-r from-primary via-[#a855f7] to-[#6366f1] dark:from-darkmode-primary dark:via-[#fbbf24] dark:to-[#f59e0b] text-white dark:text-darkmode-body font-bold;
 }
 
 .btn-outline-primary {
-  @apply border-dark text-text-dark hover:bg-dark dark:hover:text-text-dark bg-transparent hover:text-white dark:border-darkmode-primary dark:text-white dark:hover:bg-darkmode-primary;
+  @apply border-2 border-primary text-primary hover:bg-gradient-to-r hover:from-primary hover:via-[#a855f7] hover:to-[#6366f1] bg-transparent hover:text-white dark:border-darkmode-primary dark:text-darkmode-primary dark:hover:from-darkmode-primary dark:hover:via-[#fbbf24] dark:hover:to-[#f59e0b] dark:hover:text-darkmode-body;
 }
