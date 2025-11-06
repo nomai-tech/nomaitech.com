@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "Nomai",
     "base_url": "https://nomaitech.com",
     "base_path": "/",
     "trailing_slash": false,
@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "Nomai"
   },
 
   "settings": {
@@ -23,20 +23,20 @@
   },
 
   "announcement": {
-    "enable": true,
-    "content": "<span class='text-center block'>♥️ Loving Astroplate? <a class='underline' href='https://github.com/zeon-studio/astroplate' target='_blank' rel='noopener'>Please ⭐️ on Github</a></span>",
+    "enable": false,
+    "content": "",
     "expire_days": 7
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "© 2025 Nomai. Building digital products with passion."
   },
 
   "navigation_button": {
     "enable": true,
-    "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "label": "Contact Us",
+    "link": "/contact"
   },
 
   "google_tag_manager": {
@@ -51,8 +51,8 @@
   },
 
   "metadata": {
-    "meta_author": "zeon.studio",
+    "meta_author": "Nomai",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "A small company of developers building exceptional digital products"
   }
 }

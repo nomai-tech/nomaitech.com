@@ -1,9 +1,11 @@
 ---
-title: "Hey, I am John Doe!"
+title: "About Nomai"
 meta_title: "About"
-description: "this is meta description"
+description: "Learn about Nomai - a small company of developers building exceptional digital products"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+We're Nomai, a small but mighty team of developers passionate about building digital products that make a real impact. We believe great software comes from collaboration, creativity, and a genuine understanding of what our clients need.
+
+Our approach is simple: we listen, we build, and we deliver. No corporate jargon, no endless meetings—just honest communication and quality work. Whether you're a startup with a big idea or an established business looking to innovate, we're here to help bring your vision to life with modern technology and thoughtful design.

@@ -1,51 +1,51 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Building Digital Products That Make a Difference"
+  content: "Nomai is a small company of passionate developers crafting exceptional web applications, mobile apps, and digital experiences. We turn your ideas into reality with cutting-edge technology and creative design."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/astroplate"
+    label: "Let's Work Together"
+    link: "/contact"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What We Build"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "At Nomai, we specialize in creating high-quality digital products tailored to your needs. From concept to deployment, we handle every aspect of development."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Astro and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Custom web applications with modern frameworks"
+      - "Lightning-fast performance and 95+ Google Pagespeed scores"
+      - "Beautiful, responsive designs that work on all devices"
+      - "SEO-optimized for maximum visibility"
+      - "Scalable architecture for growing businesses"
+      - "**Ongoing support** and maintenance for peace of mind"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Our Development Approach"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "We use modern technologies and best practices to deliver products that are fast, reliable, and maintainable. Our approach ensures your project succeeds:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Modern frameworks: React, Astro, Next.js, and more for optimal performance"
+      - "Clean code: Maintainable, well-documented, and future-proof solutions"
+      - "Agile process: Regular updates and transparent communication throughout"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "Start Your Project"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "Why Choose Nomai"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Partner with a dedicated team that cares about your success. We don't just write code—we build relationships and deliver results."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Fast delivery: We move quickly without compromising quality"
+      - "Direct communication: Work directly with developers, no middlemen"
+      - "Flexible solutions: Custom-built for your specific needs and goals"
+      - "Future-ready: Built on cutting-edge technology that scales with your business"
     button:
       enable: false
       label: ""
